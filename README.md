@@ -52,7 +52,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Narathip1707&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
   </a>
   <a href="https://github.com/Narathip1707">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narathip1707&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF" alt="Narathip's GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narathip1707&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF"  width="48%" />
   </a>
 </div>
 
