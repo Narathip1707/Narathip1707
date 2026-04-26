@@ -42,9 +42,24 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
+## 📝 LeetCode
+
+<p align="center">
+    <a href="https://leetcode.com/u/Narathip1707/">
+      <img src="https://github-readme-leetcode-card.romitsagu.com/Narathip1707?theme=tokyonight&show=graph,recent" />
+    </a>
+</p>
+
 ---
 
 ## 📈 GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/Narathip1707">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narathip1707&theme=nord_bright" />
+    </a>
+</p>
+
 
 <div align="center">
   <a href="https://github.com/Narathip1707">
