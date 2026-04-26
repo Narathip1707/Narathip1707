@@ -22,7 +22,11 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-
+<div align = "center">
+  <a href="https://github.com/Narathip1707">
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Narathip1707&layout=compact&count_private=true&theme=dark&title_color=00b3ff&langs_count=20&hide=Jupyter%20Notebook&cache_seconds=1800" alt="Most Used Languages" />
+    
+</div>
 <div align="center">
   <h3>Frontend</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
